@@ -68,15 +68,15 @@
     },
 	{
 	  "itemText": "User", 
-	  "itemIcon": "Icons.people"
+	  "itemIcon": Icons.people
 	},
 	{
 	  "itemText": "Contact", 
-	  "itemIcon": "Icons.contacts"	
+	  "itemIcon": Icons.contacts	
 	},
 	{
 	  "itemText": "List", 
-	  "itemIcon": "Icons.list"
+	  "itemIcon": Icons.list
 	},
 	{
 	  "itemText": "Todo", 
