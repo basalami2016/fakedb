@@ -5,69 +5,131 @@
       "firstName": "James",
       "middleName": "Irabo",
       "lastName": "Solomon",
-      "post": "navItems.itemText"   
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
+	      
     },
     {
       "id": "002",
       "firstName": "Sandra",
       "middleName": "Angel",
       "lastName": "Andrew",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     },
     {
       "id": "003",
       "firstName": "Famus",
       "middleName": "Jack",
       "lastName": "Michael",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     },
     {
       "id": "004",
       "firstName": "Favour",
       "middleName": "Agness",
       "lastName": "Jackson",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     },
     {
       "id": "005",
       "firstName": "Pat",
       "middleName": "Patience",
-      "lastName": "Luther"
+      "lastName": "Luther",
+       "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "       
     },
     {
       "id": "006",
       "firstName": "Afnas",
       "middleName": "Cusmos",
       "lastName": "Idris",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     },
     {
       "id": "007",
       "firstName": "Oscar",
       "middleName": "Jersey",
       "lastName": "Aloma",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     },
     {
       "id": "008",
       "firstName": "Joseph",
       "middleName": "Amos",
       "lastName": "Darkosta",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "    
     },
     {
       "id": "009",
       "firstName": "William",
       "middleName": "Walley",
       "lastName": "Abdul",
-      "post": "navItems.itemText" 
+      "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     },
     {
       "id": "010",
       "firstName": "Josphine",
       "middleName": "Ulandria",
       "lastName": "Jerfeson",
-      "post": "navItems.itemText" 
+     "post": "
+	        To begin, you will add a transition when clicking on an email. 
+                For this navigation change, the container transform pattern is well suited.                  
+                This pattern creates a visible connection between two UI elements.
+                Before adding any code, try running the Reply app and clicking on an email. 
+                It should do a simple jump-cut, which means the screen is replaced with no transition:
+	     "   
     }
   ],
   "navItems" : [
