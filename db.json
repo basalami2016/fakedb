@@ -5,17 +5,15 @@
       "firstName": "James",
       "middleName": "Irabo",
       "lastName": "Solomon",
-      "post": "	To begin, you will add a transition when clicking on an email.\nFor this navigation change, the container transform pattern is well suited. \nThis pattern creates a visible connection between two UI elements. \nBefore adding any code, try running the Reply app and clicking on an email. \nIt should do a simple jump-cut, which means the screen is replaced with no transition"              
-                    
-    },
+      "post": "To begin, you will add a transition when clicking on an email.\nFor this navigation change, the container transform pattern is well suited. \nThis pattern creates a visible connection between two UI elements. \nBefore adding any code, try running the Reply app and clicking on an email. \nIt should do a simple jump-cut, which means the screen is replaced with no transition"             
+     },
     {
       "id": "002",
       "firstName": "Sandra",
       "middleName": "Angel",
       "lastName": "Andrew",
-      "post": "To begin, you will add a transition when clicking on an email.\nFor this navigation change, the container transform pattern is well suited. \nThis pattern creates a visible connection between two UI elements. \nBefore adding any code, try running the Reply app and clicking on an email. \nIt should do a simple jump-cut, which means the screen is replaced with no transition"             
-                                 
-    },
+      "post": "To begin, you will add a transition when clicking on an email.\nFor this navigation change, the container transform pattern is well suited. \nThis pattern creates a visible connection between two UI elements. \nBefore adding any code, try running the Reply app and clicking on an email. \nIt should do a simple jump-cut, which means the screen is replaced with no transition"           
+    },                     
     {
       "id": "003",
       "firstName": "Famus",
@@ -70,7 +68,7 @@
       "firstName": "Josphine",
       "middleName": "Ulandria",
       "lastName": "Jerfeson",
-      "post": "	To begin, you will add a transition when clicking on an email.\nFor this navigation change, the container transform pattern is well suited. \nThis pattern creates a visible connection between two UI elements. \nBefore adding any code, try running the Reply app and clicking on an email. \nIt should do a simple jump-cut, which means the screen is replaced with no transition"             
+      "post": "To begin, you will add a transition when clicking on an email.\nFor this navigation change, the container transform pattern is well suited. \nThis pattern creates a visible connection between two UI elements. \nBefore adding any code, try running the Reply app and clicking on an email. \nIt should do a simple jump-cut, which means the screen is replaced with no transition"             
     }
   ],
   "navItems" : [
