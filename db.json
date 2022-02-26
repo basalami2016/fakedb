@@ -5,7 +5,7 @@
       "firstName": "James",
       "middleName": "Irabo",
       "lastName": "Solomon"
-      "post": navItems.itemText    
+      "post": "navItems.itemText"   
     },
     {
       "id": "002",
