@@ -64,7 +64,7 @@
   "navItems" : [
     {
 	  "itemText": "Home", 
-	  "itemIcon": "Icons.home"
+	  "itemIcon": Icons.home
     },
 	{
 	  "itemText": "User", 
