@@ -11,19 +11,22 @@
       "id": "002",
       "firstName": "Sandra",
       "middleName": "Angel",
-      "lastName": "Andrew"
+      "lastName": "Andrew",
+      "post": "navItems.itemText" 
     },
     {
       "id": "003",
       "firstName": "Famus",
       "middleName": "Jack",
-      "lastName": "Michael"
+      "lastName": "Michael",
+      "post": "navItems.itemText" 
     },
     {
       "id": "004",
       "firstName": "Favour",
       "middleName": "Agness",
-      "lastName": "Jackson"
+      "lastName": "Jackson",
+      "post": "navItems.itemText" 
     },
     {
       "id": "005",
@@ -35,31 +38,36 @@
       "id": "006",
       "firstName": "Afnas",
       "middleName": "Cusmos",
-      "lastName": "Idris"
+      "lastName": "Idris",
+      "post": "navItems.itemText" 
     },
     {
       "id": "007",
       "firstName": "Oscar",
       "middleName": "Jersey",
-      "lastName": "Aloma"
+      "lastName": "Aloma",
+      "post": "navItems.itemText" 
     },
     {
       "id": "008",
       "firstName": "Joseph",
       "middleName": "Amos",
-      "lastName": "Darkosta"
+      "lastName": "Darkosta",
+      "post": "navItems.itemText" 
     },
     {
       "id": "009",
       "firstName": "William",
       "middleName": "Walley",
-      "lastName": "Abdul"
+      "lastName": "Abdul",
+      "post": "navItems.itemText" 
     },
     {
       "id": "010",
       "firstName": "Josphine",
       "middleName": "Ulandria",
-      "lastName": "Jerfeson"
+      "lastName": "Jerfeson",
+      "post": "navItems.itemText" 
     }
   ],
   "navItems" : [
