@@ -84,7 +84,7 @@
 	},
 	{
 	  "itemText": "Tabs", 
-	  "itemIcon": Icons.tab	
+	  "itemIcon": "Icons.tab"	
 	},
 	{
 	  "itemText": "Reports", 
